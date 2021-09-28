@@ -1,0 +1,19 @@
+public class CodeTwo {
+
+	public static void main(String[] args) {
+		System.out.println("I will now add two numbers.");
+		
+		int x, b;
+		x = 10;
+		b = 9;
+		
+		int sum = x + b;
+		
+		System.out.println("x is equal to 10. b is equal to 9.");
+		
+		System.out.println("The sum of x and b is equal to "  +sum);
+		
+
+	}
+
+}
