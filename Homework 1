@@ -1,0 +1,10 @@
+public class CodeOne {
+
+	public static void main(String[] args) {
+		System.out.println("My name is Jordyn Busby.");
+		System.out.println("My email is jbusby@nyit.edu.");
+		System.out.println("My student is ID is ");
+
+	}
+
+}
