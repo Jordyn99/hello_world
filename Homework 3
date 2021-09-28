@@ -1,0 +1,13 @@
+public class CodeThree {
+
+	public static void main(String[] args) {
+		System.out.println("The integer x is equal to 1. x will go up by one.");
+		
+		int x = 1;
+		
+		System.out.println("x was one. Now x is.. ");
+		
+		System.out.print(++x);
+	}
+
+}
